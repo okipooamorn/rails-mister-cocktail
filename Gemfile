@@ -35,11 +35,10 @@ gem 'turbolinks', '~> 5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-#GEM package from class
+# GEM package from class
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
 gem 'simple_form'
-gem 'pg'  # No more `gem 'sqlite'` thanks to `--database=postgresql`
 
 
 # Reduces boot times through caching; required in config/boot.rb
